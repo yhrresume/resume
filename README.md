@@ -15,6 +15,7 @@
  - 软件设计师
  - 技术博客：https://blog.csdn.net/qq_29611427
  - Gitee：https://gitee.com/hrcl
+ - 个人评价：较强的学习能力和分析解决问题能力
  #####
  - 期望职位：JAVA程序员
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
@@ -42,7 +43,15 @@
 ### 一键保在线融资保理平台 
 我在此项目负责了部分后台功能的实现以及主辅系统间的通信，其中系统间的通信采用webservice实现。这个项目中，我最困难的问题是webservice中两个版本之间的冲突问题。项目中同时存在了axis和cxf两个版本，造成了其中cxf和xfire的jar包冲突。对于这种极其奇葩的坑，网上资料也极其的少，最后在另外一篇解决同样版本冲突类型的文章中得到了启发，采取了拆开jar包反编译，去除冲突代码后重新打包的方法，解决了这个问题。
 
-
+# 个人能力
+- 熟练掌握JAVA基础知识；
+- 熟练掌握Spring、SpringMVC、Springboot、Mybatis等常用开源软件；
+- 熟练掌握Mysql、Oracle等关系型数据库，
+- 熟悉面向对象技术、常用设计模式；
+- 熟悉Liunx操作系统，掌握常用Linux命令；
+- 熟悉Git、Maven、jenkins等项目管理工具；
+- 熟悉Nginx、Tomcat等web服务器;
+- 了解springcloud、k8s、docker
   
 
 # 开源项目

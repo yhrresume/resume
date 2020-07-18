@@ -44,13 +44,13 @@
 # 个人能力
 - 熟练掌握JAVA基础知识；
 - 熟练掌握Spring、SpringMVC、Springboot、Mybatis等常用开源软件；
-- 熟练掌握Mysql、Oracle等关系型数据库，
-- 熟悉面向对象技术、常用设计模式；
+- 掌握SQL语句，熟悉Mysql数据库，具备基础索引调优能力；
+- 熟悉面向对象技术、常用设计模式吗，具有良好的需求理解、分析、抽象能力与软件设计能力；
+- 熟悉前后端分离开发、熟悉Restful API设计；
 - 熟悉Liunx操作系统，掌握常用Linux命令；
 - 熟悉Git、Maven、jenkins等项目管理工具；
 - 熟悉Nginx、Tomcat等web服务器;
-- 了解springcloud、k8s、docker
-  
+- 了解springcloud、k8s、docker  
 
 # 开源项目
 

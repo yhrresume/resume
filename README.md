@@ -58,11 +58,6 @@
 - 熟悉Nginx、Tomcat等web服务器;
 - 了解渗透测试；
 
-# 开源项目
-
-
-  - [summerboot](https://gitee.com/hrcl/summerboot)：一个基于注解的轻量级Java框架，包含ioc、mvc、aop、config、Jdbcb等。个人学习spring的成果，每当对于spring有新的感悟，就会在该项目上体现出来，最初灵感来自于springboot，目前由于时间问题，只实现了Ioc和部分jdbc、mvc的功能。
-
 
 # 技术文章
 

@@ -66,7 +66,7 @@
 
 # 技术文章
 
-- [从零开始，Jenkins实现自动化部署](https://blog.csdn.net/qq_29611427/article/details/105808700)
+- [探索spring事件机制源码实现的全过程](https://blog.csdn.net/qq_29611427/article/details/122845169)
 - [Elasticsearch原理以及基本概念](https://blog.csdn.net/qq_29611427/article/details/105121712) 
 - [如何写好代码系列——第三期，以说明文方式去写你的代码](https://blog.csdn.net/qq_29611427/article/details/120572863?spm=1001.2014.3001.5501) 
 

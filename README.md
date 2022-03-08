@@ -49,14 +49,16 @@
 
 # 个人能力
 - 熟练掌握JAVA基础知识；
-- 熟练掌握Spring、SpingMVC、Springboot、mybatis源码及实现原理；
+- 熟练掌握Spring、SpingMVC、Springboot、mybatis,熟悉其源码及实现原理；
 - 熟练掌握SQL语句，熟悉ORACLE、MYSQL数据库，具备基础索引调优能力；
 - 熟悉面向对象技术、常用设计模式，掌握测试驱动开发（TDD），具有良好的需求理解、分析、抽象能力与软件设计能力；
 - 熟悉前后端分离开发、熟悉Restful API设计；
 - 熟悉Liunx操作系统，掌握常用Linux命令；
 - 熟悉Git、Maven、jenkins等项目管理工具；
 - 熟悉Nginx、Tomcat等web服务器;
-- 了解渗透测试；
+
+# 个人开源
+- [summerboot](https://gitee.com/hrcl/summerboot)：一个基于注解的轻量级Java框架，包含ioc、mvc、aop、config、Jdbcb等。个人学习spring的成果，每当对于spring有新的感悟，就会在该项目上体现出来，最初灵感来自于springboot，目前由于时间问题，只实现了Ioc和部分jdbc、mvc的功能。
 
 
 # 技术文章

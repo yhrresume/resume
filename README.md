@@ -67,12 +67,12 @@
 - [summerboot](https://gitee.com/hrcl/summerboot)：一个基于注解的轻量级Java框架，包含ioc、mvc、aop、config、Jdbcb等。个人学习spring的成果，每当对于spring有新的感悟，就会在该项目上体现出来，最初灵感来自于springboot，目前由于时间问题，只实现了Ioc部分功能和部分jdbc、mvc的功能。
 
 
-# 技术文章
+# 部分技术文章
 
 - [探索spring事件机制源码实现的全过程](https://blog.csdn.net/qq_29611427/article/details/122845169)
-- [Elasticsearch原理以及基本概念](https://blog.csdn.net/qq_29611427/article/details/105121712) 
-- [如何写好代码系列——第三期，以说明文方式去写你的代码](https://blog.csdn.net/qq_29611427/article/details/120572863?spm=1001.2014.3001.5501) 
-
+- [【spring源码探索】一分钟搞懂RefreshScope的作用及实现原理](https://blog.csdn.net/qq_29611427/article/details/125429774) 
+- [如何写好代码系列——第三期，以说明文方式去写你的代码](https://blog.csdn.net/qq_29611427/article/details/120572863) 
+- [【源码分析】一次Eureka Client源码分析的随笔记录](https://blog.csdn.net/qq_29611427/article/details/125376904) 
    
 ---      
 # 致谢
